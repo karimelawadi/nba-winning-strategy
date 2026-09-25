@@ -55,3 +55,11 @@ This is a correlational analysis of a single dataset, not a causal study. It doe
 ## Repository Contents
 
 - `Basketball.ipynb` — full analysis notebook, including SQL queries, data cleaning steps, correlation analysis, feature engineering, exploratory data analysis, and all visualizations.
+
+## Contact
+
+**Karim Elawadi**
+
+- **Email:** [hamedkarim343@gmail.com](mailto:hamedkarim343@gmail.com)
+- **LinkedIn:** [linkedin.com/in/karim-elawadi](https://www.linkedin.com/in/karim-elawadi)
+- **HackerRank:** [hackerrank.com/profile/hamedkarim343](https://www.hackerrank.com/profile/hamedkarim343)
